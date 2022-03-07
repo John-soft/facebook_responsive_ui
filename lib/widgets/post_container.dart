@@ -1,4 +1,3 @@
-import 'dart:ui';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:facebook_responsive_ui/config/palette.dart';
 import 'package:facebook_responsive_ui/widgets/profile_avatar.dart';
